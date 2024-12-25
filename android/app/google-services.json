@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525062199754",
+    "project_id": "fir-a2f0b",
+    "storage_bucket": "fir-a2f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525062199754:android:ab58b5d37b3edd28be9733",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkGD82lwMrqOPkW3JKT5PlM1qY4Upvd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
